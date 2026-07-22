@@ -16,9 +16,6 @@
   <img src="https://streak-stats.demolab.com/?user=mihsanaa&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="mihsanaa's GitHub Streak" height="180" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihsanaa&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="95%" alt="mihsanaa's Activity Graph" />
-</p>
-<p align="center">
   <img src="https://trophy.ryglcloud.net/?username=mihsanaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Muhammad Ihsan Abdurrasyid's GitHub Trophies" />
 </p>
 
