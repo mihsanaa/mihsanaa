@@ -9,7 +9,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/mihsanaa">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mihsanaa&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="mihsanaa's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mihsanaa&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10&hide_rank=true" alt="mihsanaa's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=mihsanaa&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="mihsanaa's GitHub Streak" width="49%" />
 </p>
