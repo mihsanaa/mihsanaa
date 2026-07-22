@@ -10,23 +10,13 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/mihsanaa">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mihsanaa&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="mihsanaa's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mihsanaa&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10&count_private=true" alt="mihsanaa's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=mihsanaa&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="mihsanaa's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=mihsanaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Muhammad Ihsan Abdurrasyid's GitHub Trophies" />
 </p>
-
-## 📌 Proyek yang Saya Kerjakan
-
-| Proyek | Deskripsi | Stack |
-|---|---|---|
-| **PlanWise** | Task management app untuk mata kuliah PBO — fitur History, Notification, Group Task | Spring Boot, React, Supabase |
-| **TensorLease** | Platform manajemen lease HPC (High-Performance Computing) | Spring Boot, React, Supabase |
-| **Sistem Antrian Bank BPR** | Sistem ticketing antrian bank | Laravel, Next.js |
-| **Jaringan Komputer - Client-Proxy-Server** | Sistem proxy HTTP dengan caching, testing QoS UDP (RTT/jitter/packet loss), simulasi multi-client | Python, Sockets |
-| **Fuzzy Burnout Prediction** | Prediksi burnout mahasiswa pakai Fuzzy Inference System (Mamdani & Sugeno) | Python, Jupyter |
 
 ## 🛠️ Languages & Tools
 
