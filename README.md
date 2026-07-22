@@ -9,10 +9,14 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/mihsanaa">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mihsanaa&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10&count_private=true" alt="mihsanaa's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=mihsanaa&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="mihsanaa's GitHub Streak" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mihsanaa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="mihsanaa's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mihsanaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="mihsanaa's Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mihsanaa&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="mihsanaa's GitHub Streak" height="180" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihsanaa&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="95%" alt="mihsanaa's Activity Graph" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=mihsanaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Muhammad Ihsan Abdurrasyid's GitHub Trophies" />
